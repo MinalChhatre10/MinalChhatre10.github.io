@@ -1,0 +1,27 @@
+$color-grey-dark: #777;
+$color-grey-dark-1: #555;
+$color-grey-dark-2: #333;
+
+$color-grey-light: #aaa;
+$color-grey-light-1: #ddd;
+$color-grey-light-2: #eee;
+
+$color-white: #fff;
+$color-primary: #6febff;
+$color-secondary: #039fff;
+
+$color-glass: rgba(255, 255, 255, 0.1);
+$color-glass-1: rgba(255, 255, 255, 0.3);
+$color-glass-2: rgba(255, 255, 255, 0.5);
+$color-glass-3: rgba(255, 255, 255, 0.7);
+$color-glass-4: rgba(255, 255, 255, 0.8);
+
+$color-gradient: linear-gradient(
+  to left bottom,
+  $color-primary,
+  $color-secondary
+);
+
+$box-shadow-primary: rgba(3, 159, 255, 0.08) 0px 4px 12px;
+
+$box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
